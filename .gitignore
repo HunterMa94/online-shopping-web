@@ -1,16 +1,14 @@
 # dependencies
 /node_modules
 /client/node_modules
-/client/public/images
-/.pnp
-.pnp.js
 
 # config
 .env
 
+.DS_Store
 
-# testing
-/coverage
+
+
 
 # production
 /build
