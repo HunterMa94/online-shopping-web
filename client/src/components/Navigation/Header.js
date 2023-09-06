@@ -9,7 +9,7 @@ export default function Header({ users, signOutUser }) {
             <div className='container'>
                 <div className='left'>
                     <div className='logo'>
-                        WAVES
+                        ACASTLE
                     </div>
                 </div>
                 <div className='right'>
