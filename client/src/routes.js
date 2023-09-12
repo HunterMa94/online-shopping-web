@@ -77,8 +77,8 @@ const App = (props) => {
                 <Route path="/" exact element={<Home />}></Route>
 
                 <Route path="/verification?" element={<Verification />}></Route>
-                {/* 暂时这样 */}
-                <Route path="*" element={<Navigate to="/" />}></Route>
+
+                {/* <Route path="*" element={<Navigate to="/" />}></Route> */}
               </Routes>
             </MainLayout>
             <Footer />
